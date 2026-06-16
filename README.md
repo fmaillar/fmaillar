@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @fmaillar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Florian 👋
 
-<!---
-fmaillar/fmaillar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+PhD engineer working at the intersection of engineering and software.
+
+- 🔬 Systems modeling and diagnostics
+- 🐍 Scientific Python and reproducible research
+- ⚙️ Automation and developer tooling
+- 📝 Emacs, Org-mode, and knowledge management
+
+I enjoy building practical tools that make complex systems easier to understand and use.
