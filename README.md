@@ -1,20 +1,41 @@
 # Hi, I'm Florian 👋
 
-PhD engineer working at the intersection of **engineering, scientific computing, and software development**.
+**PhD engineer | Scientific computing | Systems, models, and code**
 
-My work and personal projects focus on turning complex technical problems into reproducible, maintainable, and useful tools.
+I work where physical systems meet mathematical models and software. I’m interested in making complex technical problems computable, testable, and reproducible—from the first model to the tools that help analyze its behavior.
 
-## Interests
+A rough sketch of my interests:
 
-- 🔬 Physical systems modeling, simulation, diagnostics, and state estimation
-- 🐍 Scientific Python, numerical computing, and data analysis
-- ⚙️ Automation, developer tooling, testing, and reproducible workflows
+```text
+physical system
+      ↓
+model → simulation → diagnostics → state estimation
+      ↓
+reproducible, maintainable software
+```
+
+## Things I like to work on
+
+- 🔬 Modeling and simulating physical systems
+- 🧮 Numerical computing and scientific Python
+- 📊 Data analysis, diagnostics, and state estimation
+- ⚙️ Automation, testing, and developer tooling
+- 🔁 Reproducible research and dependable workflows
 - 🐧 GNU/Linux, open-source software, and open standards
 - 📝 Emacs, Org-mode, technical documentation, and knowledge management
 
-I particularly value simple architectures, transparent tools, reproducible research, and software that remains understandable over time.
+## Engineering preferences
+
+- **Keep the model understandable.** A result is more useful when you can see how it was produced.
+- **Make computations reproducible.** The same inputs and process should lead to inspectable results.
+- **Automate the boring parts.** Let tools handle repetition so people can focus on the problem.
+- **Prefer simple systems.** Fewer moving parts make software easier to reason about and maintain.
+- **Document the important bits.** Future-you is also a user.
+
+I’m especially drawn to tools that bring together physical insight, numerical methods, and solid software practice—and remain useful after the first successful run.
 
 ## OpenPGP
 
 Fingerprint:
+
 [`C175 666A D504 736C 07F0 5192 6CB4 6CA7 1155 8C6D`](https://keys.openpgp.org/search?q=C175666AD504736C07F051926CB46CA711558C6D)
